@@ -1,1 +1,1 @@
-# BRR (Best Restaurans Rating Site)
+# BRR (Best Restaurants Rating Site)
